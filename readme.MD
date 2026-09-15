@@ -1,6 +1,6 @@
 detail:
 name:xyzw
 age:22
-class:72
+class:TYAIA XYZ
 organisation:iit roorkee
-fjwhe
+
